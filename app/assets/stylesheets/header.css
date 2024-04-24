@@ -188,7 +188,7 @@ div {
 
 .branding .text-area {
   font: 14px / 18px "Poppins", Helvetica, Arial, Verdana, sans-serif;
-  color: #8c95a2;
+  color: #5e6164;
 }
 
 .masthead .mini-widgets>*,
@@ -200,7 +200,7 @@ div {
 
 .text-area {
   font: normal 14px / 18px "Poppins", Helvetica, Arial, Verdana, sans-serif;
-  color: #8c95a2;
+  color: #5e6164;
 }
 
 .text-area {
@@ -371,7 +371,7 @@ div {
 }
 
 .main-nav>li:not(.wpml-ls-item)>a {
-  color: #8c95a2;
+  color: #5e6164;
 }
 
 .main-nav>li>a {
@@ -411,7 +411,7 @@ div {
 }
 
 .main-nav>li:not(.wpml-ls-item)>a .menu-text {
-  color: #8c95a2;
+  color: #5e6164;
 }
 
 .main-nav>li>a .menu-text {
