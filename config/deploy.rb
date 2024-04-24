@@ -1,5 +1,5 @@
 # Change these
-server '18.207.215.208', port: 22, roles: [:web, :app, :db], primary: true
+server '34.201.45.113', port: 22, roles: [:web, :app, :db], primary: true
 
 set :repo_url,'git@github.com:dwivedivaibs/theresearchhelp.git'
 set :application,     'theresearchhelp'
@@ -44,7 +44,7 @@ namespace :puma do
     end
   end
 
-  before :start, :make_dirs
+  # before :start, :make_dirs
 end
 
 namespace :deploy do
